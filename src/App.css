@@ -1,0 +1,13 @@
+.page-title {
+    display: block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+.form-container {
+    width: 400px;
+    margin: auto;
+}
+.ui.violet.button:focus, .ui.violet.buttons .button:focus {
+    background-color: #6435c9;
+}
