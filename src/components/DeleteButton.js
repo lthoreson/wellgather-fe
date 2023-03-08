@@ -1,6 +1,6 @@
 import { useMutation } from '@apollo/client'
 import React, { useState } from 'react'
-import { Button, Confirm, Icon, Popup } from 'semantic-ui-react'
+import { Button, Confirm, Icon } from 'semantic-ui-react'
 import { DELETE_COMMENT_MUTATION, DELETE_POST_MUTATION, FETCH_POSTS_QUERY } from '../util/graphQL'
 import MyPopup from './MyPopup'
 
